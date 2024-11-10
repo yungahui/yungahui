@@ -12,7 +12,7 @@ In addition to my research work, I design and develop micro iOS apps and interac
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-### 📂 Projects
+### 📂 Projects (Private!)
 
 [ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok)
 
