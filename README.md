@@ -11,6 +11,7 @@ In addition to my research work, I design and develop micro iOS apps and interac
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+
 ### 📂 Projects
 
 [ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok)
@@ -19,11 +20,14 @@ In addition to my research work, I design and develop micro iOS apps and interac
 
 [Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX)
 
+
 ### 🌐 Portfolio
 Explore my *[portfolio](https://gahuiyun.framer.website)* to see more of my work
 
+
 ### 🫀 My Personal Future
 I'm passionate about applying human-centered approach to complex and societal issues. I curate papers related to **gender equity in technology** and share them on *[Instagram.](https://instagram.com/posthuman.archive)*
+
 
 ### 📫 Get in Touch
 
