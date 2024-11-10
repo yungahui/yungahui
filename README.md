@@ -20,6 +20,8 @@ In addition to my research work, I design and develop micro iOS apps and interac
 
 [Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX)
 
+[Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini)
+
 
 ### 🌐 Portfolio
 Explore my *[portfolio](https://gahuiyun.framer.website)* to see more of my work
