@@ -17,6 +17,7 @@ In addition to my research work, I design and develop micro iOS apps and interac
 [RelaxOn](https://github.com/M1zz/RelaxOn) (Released!)
 
 Private projects:
+
 [ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok)
 
 [Tiramisul](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear)
