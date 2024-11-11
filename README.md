@@ -12,15 +12,17 @@ In addition to my research work, I design and develop micro iOS apps and interac
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-### 📂 Projects (Private!)
+### 📂 Projects
 
-[ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok)
+[RelaxOn](https://github.com/M1zz/RelaxOn) (Released!)
 
-[Tiramisul](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear)
+[ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok) (Private!)
 
-[Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX)
+[Tiramisul](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear) (Private!)
 
-[Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini)
+[Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX) (Private!)
+
+[Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini) (Private!)
 
 
 ### 🌐 Portfolio
