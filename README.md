@@ -18,13 +18,7 @@ In addition to my research work, I design and develop micro iOS apps and interac
 
 Private projects:
 
-[ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok)
-
-[Tiramisul](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear)
-
-[Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX)
-
-[Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini)
+[ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok) / [Tiramisul](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear) / [Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX) / [Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini)
 
 
 ### 🌐 Portfolio
