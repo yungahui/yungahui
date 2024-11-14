@@ -29,7 +29,7 @@ Explore my *[portfolio](https://gahuiyun.framer.website)* to see more of my work
 
 
 ### 🫀 My Personal Future
-I'm passionate about applying human-centered approach to complex and societal issues. I curate papers related to **gender equity in technology** and share them on *[Instagram.](https://instagram.com/posthuman.archive)*
+I'm passionate about applying human-centered approach to complex and societal issues. I curate papers related to **gender equality in technology** and share them on *[Instagram.](https://instagram.com/posthuman.archive)*
 
 
 ### 📫 Get in Touch
