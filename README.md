@@ -2,7 +2,7 @@
 
 👩‍🎓 Master's student in Human-Centered Design & Engineering at **University of Washington** (expected graduation: Jun. 2026)
 
-I am a **Multidisciplinary UX Researcher** with over **2 years** of experience in community-engaged research. My expertise spans **service design**, **UX design**, and **front-end development**, enabling me to thrive in agile, cross-functional collaboration environments.
+I am a **Multidisciplinary UX Researcher** with over **2 years** of experience in community-engaged research. My expertise spans **service design**, **UX design**, and **front-end development**, enabling me to thrive in agile and cross-functional collaboration environments.
 
 In addition to my research work, I design and develop micro iOS apps and interactive products.
 
