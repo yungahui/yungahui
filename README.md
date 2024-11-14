@@ -15,7 +15,7 @@ In addition to my research work, I design and develop micro iOS apps and interac
 ### 📂 Projects
 <img src="https://github.com/user-attachments/assets/e2cdc046-700a-403c-8c3e-184230591ba5" width="200">
 
-[molli](https://youtu.be/AmdsytAM7s8?si=fMu3saDTFDFw6-5T&t=10) (Individual project!)
+[Molli](https://youtu.be/AmdsytAM7s8?si=fMu3saDTFDFw6-5T&t=10) (Individual project!)
 
 [RelaxOn](https://github.com/M1zz/RelaxOn) (Released!)
 
