@@ -17,11 +17,11 @@ In addition to my research work, I design and develop micro iOS apps and interac
 
 [Molli](https://youtu.be/AmdsytAM7s8?si=fMu3saDTFDFw6-5T&t=10) (Individual project!)
 
-[RelaxOn](https://github.com/M1zz/RelaxOn) (Released!)
+[RelaxOn](https://github.com/M1zz/RelaxOn) (Launched!)
 
 Private projects:
 
-[ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok) / [Tiramisul](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear) / [Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX) / [Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini)
+[Tiramisul(Launched!)](https://github.com/DeveloperAcademy-POSTECH/MacC_Team_Beartear) / [Appoint](https://github.com/DeveloperAcademy-POSTECH/MC3-Team8-FOX) / [ChagokChagok](https://github.com/DeveloperAcademy-POSTECH/chagokchagok) / [Donggle](https://github.com/DeveloperAcademy-POSTECH/Gamer_mini)
 
 
 ### 🌐 Portfolio
